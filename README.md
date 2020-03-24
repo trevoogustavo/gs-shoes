@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+1º execute o comando npm install, para baixar as dependências do projeto. 
+2º utilize o comando json-server server.json -p 3333, para subir a API fake.
+3º depois abra um novo terminal e execute e comando npm start.
 ### `npm start`
 
 Runs the app in the development mode.<br />
