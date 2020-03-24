@@ -1,0 +1,67 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "ammount": 3
+        },
+        {
+            "id": 2,
+            "ammount": 5
+        },
+        {
+            "id": 3,
+            "ammount": 2
+        },
+        {
+            "id": 4,
+            "ammount": 3
+        },
+        {
+            "id": 5,
+            "ammount": 1
+        },
+        {
+            "id": 6,
+            "ammount": 5
+        }
+      
+    ],
+    "products": [
+        {
+            "id":1,
+            "title":"Tênis Mizuno Wave Prophecy 8 Feminino",
+            "price":829.9,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-wave-prophecy-8-feminino/52/D16-2703-252/D16-2703-252_zoom2.jpg?ts=1573241590&ims=326x"
+        },
+        {
+            "id":2,
+            "title":"Tênis Mizuno Brave 3 Masculino",
+            "price":159.9,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-brave-3-masculino/06/D16-2773-006/D16-2773-006_zoom2.jpg?ts=1572974295&ims=326x"
+        },
+        {
+            "id":3,
+            "title":"Tênis Mizuno Guardian 2",
+            "price":498.7,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-guardian-2/20/D16-4772-120/D16-4772-120_zoom2.jpg?ts=1582319932&ims=326x"
+        },
+        {
+            "id":4,
+            "title":"Tênis Mizuno Wave Prophecy 9 Masculino",
+            "price":1299.9,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-wave-prophecy-9-masculino/20/D16-5355-120/D16-5355-120_zoom2.jpg?ts=1583144798&ims=326x"
+        },
+        {
+            "id":5,
+            "title":"Tênis Mizuno Wave Creation 20 Masculino",
+            "price": 649.9,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-wave-creation-20-masculino/86/D16-2952-086/D16-2952-086_zoom1.jpg?ts=1581115441&ims=326x"
+        },
+        {
+            "id":6,
+            "title":"Tênis Mizuno Wave Ultima 11 Masculino",
+            "price":356.9,
+            "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-wave-ultima-11-masculino/08/D16-4105-008/D16-4105-008_zoom2.jpg?ts=1572976429&ims=326x"
+        }
+    ]
+}
