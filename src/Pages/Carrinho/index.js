@@ -14,7 +14,6 @@ import {MdRemoveCircleOutline,MdAddCircleOutline, MdDelete} from 'react-icons/md
       dispatch(CarrinhoActions.updateAmount(product.id, product.ammount -1));
     }
 
-
   return (
       <Container>
         <ProductTable>
