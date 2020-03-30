@@ -45,6 +45,7 @@ import { ProductList } from './styles';
                               {ammount[product.id] || 0}
                           </div>
                           <span>ADICIONAR AO  CARRINHO</span>
+                          
                       </button>
                   </li>
           ))}
